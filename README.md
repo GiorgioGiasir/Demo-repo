@@ -3,5 +3,7 @@ primo file! AHHHHH
 booh
 ## subheader
 lalalalalalalalal
-## Donate
-1.dai il tuo contributo
+## Comparison
+1.stranger things
+## Development
+1.first branch
